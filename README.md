@@ -15,8 +15,7 @@ I had the previous experience on cpp only, but never got to the advanced level i
 
 
 
-<br/>
-<br/>
+
 ## LANGUAGES USED?
 Not Python its CPP :D
 
