@@ -12,18 +12,18 @@ int main()
 
 	// This line prints value at address stored in ptr. 
 	// Value stored is value of variable "var" 
-	cout << "Value of Var = "<< *ptr << endl; 
+	std::cout << "Value of Var = "<< *ptr << std::endl; 
 
 	// The output of this line may be different in different 
 	// runs even on same machine. 
-	cout << "Address of Var = " << ptr << endl; 
+	std::cout << "Address of Var = " << ptr << std::endl; 
 
 	// We can also use ptr as lvalue (Left hand 
 	// side of assignment) 
 	*ptr = 20; // Value at address is now 20 
 
 	// This prints 20 
-	cout << "After doing *ptr = 20, *ptr is "<< *ptr << endl; 
+	std::cout << "After doing *ptr = 20, *ptr is "<< *ptr << std::endl; 
 
 	return 0; 
 } 
