@@ -3,7 +3,20 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "C:\\cpp\\mingw32\\bin",
+                "C:\\cpp\\mingw32\\etc",
+                "C:\\cpp\\mingw32\\i686-w64-mingw32",
+                "C:\\cpp\\mingw32\\i686-w64-mingw32\\bin",
+                "C:\\cpp\\mingw32\\i686-w64-mingw32\\include",
+                "C:\\cpp\\mingw32\\i686-w64-mingw32\\lib",
+                "C:\\cpp\\mingw32\\i686-w64-mingw32\\include",
+                "C:\\cpp\\mingw32\\i686-w64-mingw32\\include\\ddk",
+                "C:\\cpp\\mingw32\\i686-w64-mingw32\\include\\gdiplus",
+                "C:\\cpp\\mingw32\\i686-w64-mingw32\\lib",
+                "C:\\cpp\\mingw32\\i686-w64-mingw32\\lib",
+                "C:\\cpp\\mingw32\\include",
+                "C:\\cpp\\mingw32\\lib",
+                "C:\\cpp\\mingw32\\opt"
             ],
             "defines": [
                 "_DEBUG",
