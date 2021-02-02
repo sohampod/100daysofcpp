@@ -11,6 +11,9 @@ I had the previous experience on cpp only, but never got to the advanced level i
 3. How to take unknown number of "integers" from user ([cin function specific for "int"](https://github.com/sohampod/100daysofcpp/blob/main/cinfn.cpp))
 4. Rand() & srand() function ([srand()](https://github.com/sohampod/100daysofcpp/blob/main/srand.randfn.cpp)).
 5. Falling Matrix effect using (rand and srand) ([Falling Matrix](https://github.com/sohampod/100daysofcpp/blob/main/fallingmatrix.cpp)).
+6. Kbhit() Fn ([Example](https://github.com/sohampod/100daysofcpp/blob/main/kbhit.cpp)).
+7. kbhit() application ([Key Fetch](https://github.com/sohampod/100daysofcpp/blob/main/kbhitapplication.cpp)).
+
 <br/>
 <br/>
 
