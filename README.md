@@ -17,7 +17,7 @@ I had the previous experience on cpp only, but never got to the advanced level i
 9. Conditionally assign a value without using conditional and arithmetic operators ([Using bitwise and operator](https://github.com/sohampod/100daysofcpp/blob/main/arrayques2.cpp)).
 10. BITWISE
     * Bitwise AND ([bitwiseAND](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseAND.cpp)).
-    * Bitwise OR
+    * Bitwise OR  ([bitwiseOR](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseOR.cpp)).
 
 <br/>
 <br/>
