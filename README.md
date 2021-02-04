@@ -13,6 +13,11 @@ I had the previous experience on cpp only, but never got to the advanced level i
 5. Falling Matrix effect using (rand and srand) ([Falling Matrix](https://github.com/sohampod/100daysofcpp/blob/main/fallingmatrix.cpp)).
 6. Kbhit() Fn ([Example](https://github.com/sohampod/100daysofcpp/blob/main/kbhit.cpp)).
 7. kbhit() application ([Key Fetch](https://github.com/sohampod/100daysofcpp/blob/main/kbhitapplication.cpp)).
+8. Conditionally assign a value without using conditional and arithmetic operators ([Using array](https://github.com/sohampod/100daysofcpp/blob/main/arrayques1.cpp)).
+9. Conditionally assign a value without using conditional and arithmetic operators ([Using bitwise and operator](https://github.com/sohampod/100daysofcpp/blob/main/arrayques2.cpp)).
+10. BITWISE
+    * Bitwise AND ([bitwiseAND](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseAND.cpp)).
+    * Bitwise OR
 
 <br/>
 <br/>
