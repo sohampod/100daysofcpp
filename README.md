@@ -18,6 +18,11 @@ I had the previous experience on cpp only, but never got to the advanced level i
 10. BITWISE
     * Bitwise AND ([bitwiseAND](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseAND.cpp)).
     * Bitwise OR  ([bitwiseOR](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseOR.cpp)).
+    * Bitwise XOR ([bitwiseXOR](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseXOR.cpp)).
+        * Bitwuse XOR 2 ([bitwiseXOR2](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseXOR2.cpp)).
+        * Bitwise XOR calculator ([bitwiseXOR calc](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseXORcalc.cpp)).
+            * Odd Occurring Element ([XOR simple trick](https://github.com/sohampod/100daysofcpp/blob/main/OddOccurringElement.cpp)).
+            * Missing Number ([XOR simple trick](https://github.com/sohampod/100daysofcpp/blob/main/MissingNumber.cpp)).
 
 <br/>
 <br/>
