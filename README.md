@@ -16,14 +16,17 @@ I had the previous experience on cpp only, but never got to the advanced level i
 8. Conditionally assign a value without using conditional and arithmetic operators ([Using array](https://github.com/sohampod/100daysofcpp/blob/main/arrayques1.cpp)).
 9. Conditionally assign a value without using conditional and arithmetic operators ([Using bitwise and operator](https://github.com/sohampod/100daysofcpp/blob/main/arrayques2.cpp)).
 10. Find the Missing Number ([Missing Number](https://github.com/sohampod/100daysofcpp/blob/main/MissingNumber2.cpp)). 
-11. BITWISE
+11. Swap Numbers without using a third variable ([Swap numbers](https://github.com/sohampod/100daysofcpp/blob/main/SwapNumberWOfn.cpp)).
+12. Swap Numbers without using a third variable (multiply and divide) ([Swap numbers](https://github.com/sohampod/100daysofcpp/blob/main/SwapNumber2.cpp)). 
+13. BITWISE
     * Bitwise AND ([bitwiseAND](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseAND.cpp)).
     * Bitwise OR  ([bitwiseOR](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseOR.cpp)).
     * Bitwise XOR ([bitwiseXOR](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseXOR.cpp)).
         * Bitwuse XOR 2 ([bitwiseXOR2](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseXOR2.cpp)).
         * Bitwise XOR calculator ([bitwiseXOR calc](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseXORcalc.cpp)).
             * Odd Occurring Element ([XOR simple trick](https://github.com/sohampod/100daysofcpp/blob/main/OddOccurringElement.cpp)).
-            * Missing Number ([XOR simple trick](https://github.com/sohampod/100daysofcpp/blob/main/MissingNumber.cpp)).
+            * Missing Number ([XOR complex trick](https://github.com/sohampod/100daysofcpp/blob/main/MissingNumber.cpp)).
+            * Swap Number ([XOR](https://github.com/sohampod/100daysofcpp/blob/main/SwapNumberXOR.cpp)).
 
 <br/>
 <br/>
