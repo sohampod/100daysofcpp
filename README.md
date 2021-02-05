@@ -15,7 +15,8 @@ I had the previous experience on cpp only, but never got to the advanced level i
 7. kbhit() application ([Key Fetch](https://github.com/sohampod/100daysofcpp/blob/main/kbhitapplication.cpp)).
 8. Conditionally assign a value without using conditional and arithmetic operators ([Using array](https://github.com/sohampod/100daysofcpp/blob/main/arrayques1.cpp)).
 9. Conditionally assign a value without using conditional and arithmetic operators ([Using bitwise and operator](https://github.com/sohampod/100daysofcpp/blob/main/arrayques2.cpp)).
-10. BITWISE
+10. Find the Missing Number ([Missing Number](https://github.com/sohampod/100daysofcpp/blob/main/MissingNumber2.cpp)). 
+11. BITWISE
     * Bitwise AND ([bitwiseAND](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseAND.cpp)).
     * Bitwise OR  ([bitwiseOR](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseOR.cpp)).
     * Bitwise XOR ([bitwiseXOR](https://github.com/sohampod/100daysofcpp/blob/main/bitwiseXOR.cpp)).
