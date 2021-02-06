@@ -1,6 +1,7 @@
 # 100daysofcpp
 ### 100 days of coding? **XD**
-I had the previous experience on cpp only, but never got to the advanced level in cpp so trying to work hard on this.
+I had the previous experience on cpp only, but never got to the advanced level in cpp so trying to work hard on this.blah blah.
+But after 1 month I stopped working on this. So, here's a little sneak peek of what I did. (pretty much basic stuff).
 <br/>
 <br/>
 
