@@ -28,6 +28,7 @@ But after 1 month I stopped working on this. So, here's a little sneak peek of w
             * Odd Occurring Element ([XOR simple trick](https://github.com/sohampod/100daysofcpp/blob/main/OddOccurringElement.cpp)).
             * Missing Number ([XOR complex trick](https://github.com/sohampod/100daysofcpp/blob/main/MissingNumber.cpp)).
             * Swap Number ([XOR](https://github.com/sohampod/100daysofcpp/blob/main/SwapNumberXOR.cpp)).
+14. Simple Matrix ([Matrix](https://github.com/sohampod/100daysofcpp/blob/main/Matrix.cpp)).            
 
 <br/>
 <br/>
